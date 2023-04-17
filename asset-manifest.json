@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weather-app-bootcamp/static/css/main.acb73b8b.css",
-    "main.js": "/weather-app-bootcamp/static/js/main.e10fb6a8.js",
+    "main.js": "/weather-app-bootcamp/static/js/main.a371a2d2.js",
     "static/media/sun-with-face_1f31e.png": "/weather-app-bootcamp/static/media/sun-with-face_1f31e.0bc057cb9ff16ba52aad.png",
     "static/media/roboto-all-500-normal.woff": "/weather-app-bootcamp/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/weather-app-bootcamp/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -37,10 +37,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/weather-app-bootcamp/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/weather-app-bootcamp/index.html",
     "main.acb73b8b.css.map": "/weather-app-bootcamp/static/css/main.acb73b8b.css.map",
-    "main.e10fb6a8.js.map": "/weather-app-bootcamp/static/js/main.e10fb6a8.js.map"
+    "main.a371a2d2.js.map": "/weather-app-bootcamp/static/js/main.a371a2d2.js.map"
   },
   "entrypoints": [
     "static/css/main.acb73b8b.css",
-    "static/js/main.e10fb6a8.js"
+    "static/js/main.a371a2d2.js"
   ]
 }
